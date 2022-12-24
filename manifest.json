@@ -1,0 +1,11 @@
+{
+  "name": "Heating Schedule",
+  "author": "Your Name",
+  "description": "A custom integration for managing heating schedules in Home Assistant",
+  "domain": "climate",
+  "homeassistant": "0.107.3",
+  "type": "integration",
+  "repository": "https://github.com/your-username/heating-schedule",
+  "issues": "https://github.com/your-username/heating-schedule/issues",
+  "minimum_version": "0.107.3"
+}
