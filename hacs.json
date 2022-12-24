@@ -1,0 +1,7 @@
+{
+  "name": "Heating Schedule",
+  "domains": [ "climate" ],
+  "homeassistant": "2021.11",
+  "persistent_directory": "userfiles",
+  "iot_class": [ "Assumed State", "Local Push" ]
+}
